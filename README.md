@@ -1,1 +1,1 @@
-bla-bla-bla
+a training exercise
